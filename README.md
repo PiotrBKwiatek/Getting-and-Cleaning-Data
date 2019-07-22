@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data
 Peer-graded assignment
 
-This repository contains files for ”Getting and Cleaning Data” course project.
+This repository contains files for 'Getting and Cleaning Data' course project.
 Dataset The data collected from the accelerometers from the Samsung Galaxy S smartphone. 
 
 The data description is available here:
